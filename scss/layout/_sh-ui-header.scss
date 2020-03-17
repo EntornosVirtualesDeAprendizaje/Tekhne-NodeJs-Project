@@ -1,0 +1,45 @@
+/////////////////////////
+//stiles header
+/////////////////////////
+.sh-ui-navbar{
+    
+  &__icon {
+    display: initial !important;
+    margin: 0 0 !important;
+  } 
+
+  &__content {
+    margin: 0;
+    height: 18px;
+    padding: 5px 18px;
+    font-size: 36px;
+    padding: 21px 10px;
+    white-space: nowrap;
+    line-height: 17px !important;
+  }
+
+  &__logo {
+    position: absolute;
+    color: #fff;
+    display: inline-block;
+    font-size: 2.1rem;
+    padding: 0;
+  
+    img{
+    height: 18px;
+    }
+  }
+  
+  &__logo-text{
+    font-size: 26px;
+    padding-left: 8px;
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 0.2s linear;
+  }
+}
+
+////////////////////////
+// mediquerys
+////////////////////////
+
