@@ -1,0 +1,237 @@
+{
+   "list-woman":[
+    {
+        "name": "White Tee",
+        "quantity": "10",
+        "category": "",
+        "description": "",
+        "color": "white",
+        "size": "l,s,m",
+        "price": "$40.00",
+        "date": "12-1-2020",
+        "img": "https://demo.bootstrapious.com/varkala/1-1/img/product/0987188250_1_1_1.17595d94.jpg"
+    },
+    {
+        "name": "Black Blouse",
+        "quantity": "",
+        "category": "",
+        "description": "",
+        "color": "",
+        "size": "",
+        "price": "$40.00",
+        "date": "",
+        "img": "https://demo.bootstrapious.com/varkala/1-1/img/product/0950354513_1_1_1.72c7e884.jpg"
+    },
+    {
+        "name": "Striped T-shirt",
+        "quantity": "",
+        "category": "",
+        "description": "",
+        "color": "",
+        "size": "",
+        "price": "$40.00",
+        "date": "10-01-2020",
+        "img": "https://demo.bootstrapious.com/varkala/1-1/img/product/0144074800_1_1_1.d5c18717.jpg"
+    },
+    {
+        "name": "Short top",
+        "quantity": "",
+        "category": "",
+        "description": "",
+        "color": "",
+        "size": "",
+        "price": "$40.00",
+        "date": "10-01-2020",
+        "img": "https://demo.bootstrapious.com/varkala/1-1/img/product/0693492802_1_1_1.f707193b.jpg"
+    },
+    {
+        "name": "Ethnic Sweater",
+        "quantity": "",
+        "category": "",
+        "description": "",
+        "color": "",
+        "size": "",
+        "price": "$40.00",
+        "date": "10-01-2020",
+        "img": "https://demo.bootstrapious.com/varkala/1-1/img/product/0364326148_1_1_1.740c261c.jpg"
+    },
+    {
+        "name": "Beige",
+        "quantity": "",
+        "category": "",
+        "description": "",
+        "color": "",
+        "size": "",
+        "price": "$40.00",
+        "date": "10-01-2020",
+        "img": "https://demo.bootstrapious.com/varkala/1-1/img/product/0931168712_1_1_1.81773d4a.jpg"
+    },
+    {
+        "name": "Skull tee",
+        "quantity": "",
+        "category": "",
+        "description": "",
+        "color": "",
+        "size": "",
+        "price": "$40.00",
+        "date": "10-01-2020",
+        "img": "https://demo.bootstrapious.com/varkala/1-1/img/product/1000962306_1_1_1.f6875648.jpg"
+    },
+    {
+        "name": "Trucker jacket",
+        "quantity": "",
+        "category": "",
+        "description": "",
+        "color": "",
+        "size": "",
+        "price": "$40.00",
+        "date": "10-01-2020",
+        "img": "https://demo.bootstrapious.com/varkala/1-1/img/product/0915494643_1_1_1.ae1a007c.jpg"
+    },
+    {
+        "name": "Blouse",
+        "quantity": "",
+        "category": "",
+        "description": "",
+        "color": "",
+        "size": "",
+        "price": "$40.00",
+        "date": "10-01-2020",
+        "img": "https://demo.bootstrapious.com/varkala/1-1/img/product/0907168607_1_1_1.dec3ea76.jpg"
+    },
+    {
+        "name": "Shirt",
+        "quantity": "",
+        "category": "",
+        "description": "",
+        "color": "",
+        "size": "",
+        "price": "$40.00",
+        "date": "10-01-2020",
+        "img": "https://demo.bootstrapious.com/varkala/1-1/img/product/5806513505_1_2_1.f2832ad0.jpg"
+    },
+    {
+        "name": "Dress",
+        "quantity": "",
+        "category": "",
+        "description": "",
+        "color": "",
+        "size": "",
+        "price": "$40.00",
+        "date": "10-01-2020",
+        "img": "https://yevgenysim.github.io/shopper/assets/img/products/product-6.jpg"
+    },
+    {
+        "name": "Fine dress",
+        "quantity": "",
+        "category": "",
+        "description": "",
+        "color": "",
+        "size": "",
+        "price": "$40.00",
+        "date": "10-01-2020",
+        "img": "https://yevgenysim.github.io/shopper/assets/img/products/product-11.jpg"
+    },
+    {
+        "name": "",
+        "quantity": "",
+        "category": "",
+        "description": "",
+        "color": "",
+        "size": "",
+        "price": "$40.00",
+        "date": "10-01-2020",
+        "img": ""
+    },
+    {
+        "name": "",
+        "quantity": "",
+        "category": "",
+        "description": "",
+        "color": "",
+        "size": "",
+        "price": "$40.00",
+        "date": "10-01-2020",
+        "img": ""
+    },
+    {
+        "name": "",
+        "quantity": "",
+        "category": "",
+        "description": "",
+        "color": "",
+        "size": "",
+        "price": "$40.00",
+        "date": "10-01-2020",
+        "img": ""
+    },
+    {
+        "name": "",
+        "quantity": "",
+        "category": "",
+        "description": "",
+        "color": "",
+        "size": "",
+        "price": "$40.00",
+        "date": "10-01-2020",
+        "img": ""
+    },
+    {
+        "name": "",
+        "quantity": "",
+        "category": "",
+        "description": "",
+        "color": "",
+        "size": "",
+        "price": "$40.00",
+        "date": "10-01-2020",
+        "img": ""
+    },
+    {
+        "name": "",
+        "quantity": "",
+        "category": "",
+        "description": "",
+        "color": "",
+        "size": "",
+        "price": "$40.00",
+        "date": "10-01-2020",
+        "img": ""
+    },
+    {
+        "name": "",
+        "quantity": "",
+        "category": "",
+        "description": "",
+        "color": "",
+        "size": "",
+        "price": "$40.00",
+        "date": "10-01-2020",
+        "img": ""
+    },
+    {
+        "name": "",
+        "quantity": "",
+        "category": "",
+        "description": "",
+        "color": "",
+        "size": "",
+        "price": "$40.00",
+        "date": "10-01-2020",
+        "img": ""
+    },
+    {
+        "name": "",
+        "quantity": "",
+        "category": "",
+        "description": "",
+        "color": "",
+        "size": "",
+        "price": "$40.00",
+        "date": "10-01-2020",
+        "img": ""
+    }
+
+   ]
+    
+}
